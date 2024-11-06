@@ -36,7 +36,7 @@ The project files are organized as follows:
 └── script.js         # JavaScript file containing game logic, location management, and event handling
 
 ### Clone the repository: 
-git clone https://github.com/username/dragon-repeller.git
+git clone https://github.com/James-Oduor/Dragon-Repeller-Project.git
 cd dragon-repeller
 
  ### Contributing
