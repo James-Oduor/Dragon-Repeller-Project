@@ -16,8 +16,7 @@
 ---
 
 ## Game Overview
-
-Dragon Repeller is an HTML/CSS/JavaScript project designed to run in the browser. The game begins in the town square where players can explore different locations, purchase items, and engage in battles against various monsters. The ultimate goal is to defeat the dragon and save the town!
+The game begins in the town square where players can explore different locations, purchase items, and engage in battles against various monsters. The ultimate goal is to defeat the dragon and save the town!
 
 ## Features
 
